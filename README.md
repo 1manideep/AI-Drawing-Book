@@ -2,7 +2,22 @@
 
 **Live at:** [https://aidrawingbook.manideep.info/](https://aidrawingbook.manideep.info/)
 
-<img src="./elephant_transparent%20copy.png" width="300" alt="Cute Elephant" />
+<table>
+  <tr>
+    <td width="70%">
+      <h2>Text-to-Coloring-Page generator using DALL-E 3, React 19, and in-browser OpenCV processing (Pyodide).</h2>
+      <p></p>
+    </td>
+    <td width="30%">
+      <img src="./elephant_transparent%20copy.png" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
+
+<video src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 <video src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" controls="controls" style="max-width: 100%;">
 </video>
