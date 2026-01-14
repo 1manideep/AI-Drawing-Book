@@ -14,16 +14,7 @@
   </tr>
 </table>
 
-<video controls style="max-width: 100%;">
-  <source src="https://github.com/user-attachments/assets/ebd58752-1790-42a1-a239-e2037224de29" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video src="https://github.com/1manideep/AI-Drawing-Book/blob/main/AI-Drawing-Book.mp4?raw=true" controls="controls" style="max-width: 100%;">
-</video>
-
-<video src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<video src="https://github.com/user-attachments/assets/ebd58752-1790-42a1-a239-e2037224de29" controls="controls" style="max-width: 100%;"></video>
 
 
 ## Building an AI Christmas Gift 🎄
