@@ -5,8 +5,8 @@
 <table>
   <tr>
     <td width="70%">
-      <h2>Building an AI Christmas Gift 🎄</h2>
-      <p>Growing up, a fresh coloring book was...</p>
+      <h2>Text-to-Coloring-Page generator using DALL-E 3, React 19, and in-browser OpenCV processing (Pyodide).</h2>
+      <p></p>
     </td>
     <td width="30%">
       <img src="./elephant_transparent%20copy.png" width="100%" />
@@ -14,7 +14,6 @@
   </tr>
 </table>
 
-## Building an AI Christmas Gift 🎄
 
 Growing up, a fresh coloring book was my ultimate escape. There was something magical about a blank page and a box of crayons.
 
