@@ -1,0 +1,19 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /drawings/{drawingId} {
+      // Allow create if userId OR userID matches (covering both schemas)
+      allow create: if request.auth != null && (
+        (request.resource.data.userId == request.auth.uid) || 
+        (request.resource.data.userID == request.auth.uid)
+      );
+      
+      // Allow read/write if existing doc's userId OR userID matches
+      allow read, update, delete: if request.auth != null && (
+        (resource.data.userId == request.auth.uid) || 
+        (resource.data.userID == request.auth.uid)
+      );
+    }
+  }
+}

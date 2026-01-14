@@ -1,0 +1,10 @@
+# Environment Variables (Keep Secret!)
+.env
+
+# Python Logic
+venv/
+__pycache__/
+*.pyc
+
+# Debug Images
+debug_*.png
