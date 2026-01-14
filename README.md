@@ -11,7 +11,7 @@ With Christmas approaching, I’ve been thinking about what to give my cousin’
 
 
 
----
+
 
 ## 🏗️ The Architecture: A Backend in the Browser
 
@@ -29,7 +29,7 @@ Turning a raw DALL-E 3 (by OpenAI) generation into a colorable outline requires 
 1.  **Zhang-Suen Thinning:** This algorithm "skeletonizes" thick AI-generated lines into clean, 1-pixel paths. This ensures the coloring "boundaries" are precise and clean.
 2.  **K-Means Clustering (OpenCV):** The system analyzes the original AI image to automatically extract a 5-color palette, giving kids a "suggested colors" tray.
 
----
+
 
 ## 🛠️ Tech Stack
 
