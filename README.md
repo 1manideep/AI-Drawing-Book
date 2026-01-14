@@ -16,7 +16,7 @@
 
 
 
-<video src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" controls="controls" style="max-width: 100%;">
+<video src="https://github.com/1manideep/AI-Drawing-Book/blob/main/AI-Drawing-Book.mp4?raw=true" controls="controls" style="max-width: 100%;">
 </video>
 
 <video src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" controls="controls" style="max-width: 100%;">
