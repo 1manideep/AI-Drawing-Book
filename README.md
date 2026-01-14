@@ -15,6 +15,12 @@
 </table>
 
 
+
+<video src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
+## Building an AI Christmas Gift 🎄
+
 Growing up, a fresh coloring book was my ultimate escape. There was something magical about a blank page and a box of crayons.
 
 With Christmas approaching, I’ve been thinking about what to give my cousin’s kids. Instead of a store-bought toy, I decided to use my AI engineering skills to build something that captures the same childhood magic, but with a modern twist.
