@@ -7,12 +7,12 @@ import { getFunctions } from "firebase/functions";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCUzo3V_sKo5mct8RzwQHcabLsVJvM2tw4",
-    authDomain: "ai-drawing-book.firebaseapp.com",
-    projectId: "ai-drawing-book",
-    storageBucket: "ai-drawing-book.firebasestorage.app",
-    messagingSenderId: "765458158460",
-    appId: "1:765458158460:web:50fea15c2e365fc32ccaf9",
+    apiKey: "Replace with your config values",
+    authDomain: "Replace with your config values",
+    projectId: "Replace with your config values",
+    storageBucket: "aReplace with your config values",
+    messagingSenderId: "Replace with your config values",
+    appId: "Replace with your config values",
     measurementId: "G-RW8NZD650S"
 };
 
