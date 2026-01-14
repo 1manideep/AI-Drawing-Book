@@ -4,6 +4,10 @@
 
 <img src="./elephant_transparent%20copy.png" width="300" alt="Cute Elephant" />
 
+<video src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
+
 ## Building an AI Christmas Gift 🎄
 
 Growing up, a fresh coloring book was my ultimate escape. There was something magical about a blank page and a box of crayons.
