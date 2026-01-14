@@ -2,7 +2,17 @@
 
 **Live at:** [https://aidrawingbook.manideep.info/](https://aidrawingbook.manideep.info/)
 
-<img src="./elephant_transparent%20copy.png" width="300" alt="Cute Elephant" />
+<table>
+  <tr>
+    <td width="70%">
+      <h2>Building an AI Christmas Gift 🎄</h2>
+      <p>Growing up, a fresh coloring book was...</p>
+    </td>
+    <td width="30%">
+      <img src="./elephant_transparent%20copy.png" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Building an AI Christmas Gift 🎄
 
