@@ -14,7 +14,10 @@
   </tr>
 </table>
 
-
+<video controls style="max-width: 100%;">
+  <source src="https://github.com/1manideep/AI-Drawing-Book/raw/main/AI-Drawing-Book.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <video src="https://github.com/1manideep/AI-Drawing-Book/blob/main/AI-Drawing-Book.mp4?raw=true" controls="controls" style="max-width: 100%;">
 </video>
